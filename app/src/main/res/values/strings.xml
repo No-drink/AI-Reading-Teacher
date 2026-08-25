@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Reading Teacher</string>
+    <string name="notification_channel_name">Reading teacher</string>
+    <string name="notification_channel_description">Shows while screen and voice tutoring are active</string>
+    <string name="notification_title">AI Reading Teacher is active</string>
+    <string name="notification_text">Following the reading screen and listening for questions</string>
+    <string name="stop_teacher">Stop Teacher</string>
+</resources>
